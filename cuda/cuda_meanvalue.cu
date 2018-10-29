@@ -91,3 +91,13 @@ int main( )
  
     return 0;
 }
+
+
+/*
+
+Compile and Run Commands for CUDA
+
+$ module load cudatoolkit
+$ nvcc vecAdd.cu -o vecAdd.out
+
+*/
